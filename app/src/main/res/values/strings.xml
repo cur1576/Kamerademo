@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kamerademo</string>
+    <string name="foto_aufnehmen">Foto Aufnehmen</string>
+    <string name="video_aufnehmen">Video Aufnehmen</string>
+</resources>
